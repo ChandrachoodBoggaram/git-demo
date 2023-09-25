@@ -1,0 +1,6 @@
+git init: The command which will initialize the version control on that folder.
+git status: This command will give you on which branch you are and how many commits are done and how many tracked and untracked files are present.
+
+git branch: we use branches concept to work on some features without disturbing the main code. when we create a new branch for example dev,
+            a new branch is created with a copy of main branch. Its basically a copy of main branch.
+git branch new_branch, git checkout -b dev.
